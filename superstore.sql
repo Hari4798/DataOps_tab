@@ -1,1 +1,1 @@
-select * from superstore;
+select * from superstore limit 1000;
