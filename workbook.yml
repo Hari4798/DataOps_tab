@@ -1,0 +1,5 @@
+workbooks:
+    - name: film_workbook
+      file_path: film_workbook.twb
+      project_path: Company Workbook/Company - Approved 
+Workbook/Dashboard/Film
